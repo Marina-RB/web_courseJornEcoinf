@@ -4,8 +4,8 @@ project:
 
 
 website:
-  title: "My website"
-  description: "I am a scientist"
+  title: "Marina Rodes Blanco (web curso)"
+  description: "La descripcion que se enceuntra en google"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
   repo-url: https://github.com/Pakillo/academic-website-template-Quarto
   # favicon: logo.png

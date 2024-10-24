@@ -1,5 +1,5 @@
 ---
-title: "Finley Malloc"
+title: "Marina Rodes Blanco"
 about:
   template: trestles
   image: avatar.jpg
